@@ -1,4 +1,4 @@
-Grocery Store CRM
+Grocery Store CRM.
 A simple CRM (Customer Relationship Management) application designed to manage grocery store operations. Currently, the system includes features for managing products and clients, along with a table to display product information.
 
 Features
